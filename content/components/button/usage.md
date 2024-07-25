@@ -49,3 +49,5 @@ Use a dropdown if there are 2 or more recommended/related actions.
 **Split button**
 
 Use a split button if there is 1 suggested action and a minimum of 2 or more optional actions.If the actions are not alternate or optional, you can follow the Action group pattern.
+
+![New image](https://pub-6981da3c2b46427da1dc4bffe027869d.r2.dev/mekari/button_split.svg)
