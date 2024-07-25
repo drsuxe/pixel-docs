@@ -45,3 +45,7 @@ Label button should be concise, consisting 1 or 2 words, and no longer than 3 wo
 Use a dropdown if there are 2 or more recommended/related actions.
 
 ![Pixel Docs 2\_1 Do and Dont\_2.svg](/__pixel-docs__/Pixel%20Docs%202_1%20Do%20and%20Dont_2.svg)
+
+**Split button**
+
+Use a split button if there is 1 suggested action and a minimum of 2 or more optional actions.If the actions are not alternate or optional, you can follow the Action group pattern.
