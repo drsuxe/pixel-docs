@@ -26,12 +26,10 @@
 - Action phrases can be used for buttons that trigger an action or change in the system, such as “Save”, “Submit,” “Delete”, or “Send”.
 - Noun phrases can be used for buttons that direct users to specific sections or resources, such as “Help center”, “Guidebook”, etc.
 
----
-
 ## Do’s and Don’ts
 
 **Width**
 
 The button has a **minimum width of 80px** for the button label, but on the button icon should be symmetric.
 
-![docs\_block.png](/__pixel-docs__/do_and_dont__.png)
+![button\_do\_and\_dont.png](/__pixel-docs__/button_do_and_dont.png)
