@@ -34,4 +34,4 @@
 
 The button has a **minimum width of 80px** for the button label, but on the button icon should be symmetric.
 
-![Do & Don't.png](/__pixel-docs__/Do%20%26%20Don't.png)
+![Do & Don't.png](/__pixel-docs__/do_and_dont.png)
