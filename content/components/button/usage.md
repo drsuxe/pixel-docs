@@ -33,3 +33,9 @@
 The button has a **minimum width of 80px** for the button label, but on the button icon should be symmetric.
 
 ![button\_do\_and\_dont.png](/__pixel-docs__/button_do_and_dont.png)
+
+**Accessibility label**
+
+Label button should be concise, consisting 1 or 2 words, and no longer than 3 words.
+
+![Pixel Docs 2.1 Do and Don't.png](/__pixel-docs__/Pixel%20Docs%202.1%20Do%20and%20Don't.png)
