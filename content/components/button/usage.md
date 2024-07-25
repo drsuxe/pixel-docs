@@ -46,7 +46,7 @@ Use a dropdown if there are 2 or more recommended/related actions.
 
 ![Pixel Docs 2\_1 Do and Dont\_2.svg](/__pixel-docs__/pixel_docs_2_1_do_and_dont_2.svg)
 
-**Split button**
+### **Split button**
 
 Use a split button if there is 1 suggested action and a minimum of 2 or more optional actions.If the actions are not alternate or optional, you can follow the Action group pattern.
 

@@ -6,3 +6,7 @@
 
 - Label text
 - Container
+
+```js [coba.js]
+const data = true
+```
