@@ -2,14 +2,14 @@
 
 ## Best practices
 
-### Condition
+### Condition X
 
 - Use button to trigger actions.
 - Button should clearly indicate that it is triggering an action.
 - Use button to submit form data for processing.
 - Button can also be used for navigation between pages or sections.
 
-### Interaction
+### Interaction X
 
 - Button should have a clear and consistent hover and active state.
 - Button should clearly indicate its clickability when the user interacts with it.
