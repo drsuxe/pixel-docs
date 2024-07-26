@@ -57,3 +57,7 @@ Use a split button if there is 1 suggested action and a minimum of 2 or more opt
 Avatars can have a defined initial name, but only allowed use 2 letters. which is usually uploaded by a user who don't have photo or don't want show their photo.
 
 ![example.svg](/__pixel-docs__/example.svg)
+
+Example
+
+![New image](https://res.cloudinary.com/icanfly/image/upload/v1721956173/mekari/Pixel_Docs_2.1_Do_Don_t_Box_h7gpcx.svg)
