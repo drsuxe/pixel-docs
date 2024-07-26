@@ -1,6 +1,6 @@
 # Usage
 
-## Best practices
+## Best practices X
 
 ### Condition X
 
