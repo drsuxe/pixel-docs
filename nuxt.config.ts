@@ -4,5 +4,10 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content', '@nuxthq/studio'],
   routeRules: {
     '/': { prerender: true }
+  },
+
+  // force module initialization on dev env
+  studio: {
+    enabled: true
   }
 })
