@@ -1,0 +1,1 @@
+import{f as a}from"./Dnd51l0P.js";import{C as c,q as f,f as o,g as d}from"./CMOHYDnG.js";const i=(e,t,r,...n)=>e[t]?c({...e,[t]:()=>a(e[t](),r==null?void 0:r.unwrap)},t,r,...n):c(e,t,r,...n),_={},l={"data-id":"experiment"};function s(e,t){return o(),d("div",l,[i(e.$slots,"title"),i(e.$slots,"description")])}const x=f(_,[["render",s]]);export{x as default};
